@@ -1,6 +1,6 @@
 # Omni-Food-Project
 
-## Link - https://sonuk-mehta.github.io/Omni-Food-Project/
+## Link - https://github.com/galande99/omni-food-project.git
 Create your perfect meal with our Omni-Food website! Customize dishes to fit your cravings, dietary preferences, and nutritional needs. Explore a world of flavor at your fingertips.
 
 ## About Project - 
